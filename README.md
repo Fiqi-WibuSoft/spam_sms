@@ -9,7 +9,7 @@
 # Run
 
 • git clone https://github.com/Fiqi-WibuSoft/spam_sms<br>
-• cd spam_sms-<br>
+• cd spam_sms<br>
 • python spam.py<br>
 
 ~ Pilih mode<br>
