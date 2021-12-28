@@ -1,11 +1,18 @@
 #!/bin/urs/python
 #mau recode ya?
-#recode aje nyet                                                      #ambil data nya trus ketik sendiri monggo lu pinter
+#recode aje nyet                                                      
+#ambil data nya trus ketik sendiri monggo lu pinter
 #copas tolol
-                                                                      #warna                                                                b='\033[34;1m' #biru
+#warna                                                               
+b='\033[34;1m' #biru
 hi='\033[32;1m' #hijau
-u='\033[35;1m' #ungu                                                  c='\033[36;1m' #cyan                                                  m='\033[31;1m' #merah
-p='\033[37;1m' #putih                                                 k='\033[33;1m' #kuning                                                H='\033[90m' #hitam
+u='\033[35;1m' #ungu                                              
+c='\033[36;1m' #cyan     
+m='\033[31;1m' #merah
+p='\033[37;1m' #putih                                               
+
+k='\033[33;1m' #kuning                                             
+H='\033[90m' #hitam
 en='\n' #enter
 sp='\t' #spasi                                                        
 #mulai
